@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<script src="https://gist.github.com/KooKouse/d4a4eaff98a7509c57166c9b9f634e21.js"></script>
 ![Metrics](/github-metrics.svg)
 ![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
 <!-- ![Metrics](/metrics.plugin.isocalendar.svg) -->
