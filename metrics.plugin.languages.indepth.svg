@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="121" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="141" class="">
     <defs>
         <style/>
     </defs>
@@ -16,14 +16,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 465kb of code in 267 edited files across 46 commits</small>
+                <small>estimation from 492kb of code in 299 edited files across 48 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="451.15691851351227" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="451.15691851351227" y="0" width="8.843081486487755" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="451.1138161898965" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="451.1138161898965" y="0" width="8.31000202880909" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="459.4238182187056" y="0" width="0.5761817812943801" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -35,8 +36,20 @@
                                 Go
                             </div>
                             <small>
-                                <div>6.34k lines</div>
-                                <div>208 kB</div>
+                                <div>6.75k lines</div>
+                                <div>222 kB</div>
+                            </small>
+                        </div>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                Makefile
+                            </div>
+                            <small>
+                                <div>7 lines</div>
+                                <div>284 bytes</div>
                             </small>
                         </div>
                     </section>
