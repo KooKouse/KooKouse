@@ -16,15 +16,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 492kb of code in 299 edited files across 48 commits</small>
+                <small>estimation from 505kb of code in 353 edited files across 49 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="451.1138161898965" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="451.1138161898965" y="0" width="8.31000202880909" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="459.4238182187056" y="0" width="0.5761817812943801" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="451.5837138095099" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="451.5837138095099" y="0" width="7.870572656677514" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="459.4542864661874" y="0" width="0.545713533812601" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -36,8 +36,8 @@
                                 Go
                             </div>
                             <small>
-                                <div>6.75k lines</div>
-                                <div>222 kB</div>
+                                <div>6.92k lines</div>
+                                <div>235 kB</div>
                             </small>
                         </div>
                         <div class="field language details">
