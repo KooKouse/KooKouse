@@ -16,15 +16,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 582kb of code in 409 edited files across 53 commits</small>
+                <small>estimation from 824kb of code in 540 edited files across 68 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="452.8719008264463" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="452.8719008264463" y="0" width="6.665911921204574" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="459.5378127476509" y="0" width="0.46218725234914526" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="455.67486399821325" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="455.67486399821325" y="0" width="3.7573185712234576" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="459.4321825694367" y="0" width="0.5678174305633106" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -36,8 +36,8 @@
                                 Go
                             </div>
                             <small>
-                                <div>8.08k lines</div>
-                                <div>278 kB</div>
+                                <div>14.6k lines</div>
+                                <div>496 kB</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -48,8 +48,8 @@
                                 Makefile
                             </div>
                             <small>
-                                <div>7 lines</div>
-                                <div>284 bytes</div>
+                                <div>15 lines</div>
+                                <div>619 bytes</div>
                             </small>
                         </div>
                     </section>
